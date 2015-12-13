@@ -1,1 +1,1 @@
-はじめまして、SourceTree こまんどから実行 refs #13
+はじめまして、SourceTree コマンドから実行 refs #13
